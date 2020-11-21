@@ -23,4 +23,5 @@ function onBtnClick(event) {
   }
   modal.classList.remove("is-open");
   modalImg.src = "";
+  modalImg.alt = "";
 }
